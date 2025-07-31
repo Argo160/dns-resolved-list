@@ -1,0 +1,12 @@
+||media-mct1-1.cdn.whatsapp.net^\=157.240.227.60
+||c.whatsapp.net^\=15.197.210.208
+||media-mct1-2.cdn.whatsapp.net^\=57.144.149.32
+||www.whatsapp.com^\=31.13.72.52
+||static.whatsapp.net^\=31.13.72.52
+||web.whatsapp.com^\=31.13.72.52
+||graph.whatsapp.net^\=31.13.72.52
+||media.fevn6-3.fna.whatsapp.net^\=178.160.243.36
+||g.whatsapp.net^\=31.13.72.48
+||scontent.whatsapp.net^\=31.13.72.52
+||whatsapp.com^\=31.13.72.52
+||pps.whatsapp.net^\=31.13.72.52
