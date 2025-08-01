@@ -22,7 +22,6 @@ black.ish.instagram.com
 business.instagram.com
 engineering.instagram.com
 help.instagram.com
-i.instagram.com
 images.instagram.com
 instagram-shv-01-ams2.fbcdn.net
 instagram-shv-01-ams3.fbcdn.net
@@ -88,7 +87,6 @@ scontent-atl3-1.cdninstagram.com
 scontent-b.cdninstagram.com
 scontent-dft4-1.cdninstagram.com
 scontent-dft4-2.cdninstagram.com
-scontent-fra3-1.cdninstagram.com
 scontent-frt3-1.cdninstagram.com
 scontent-frx5-1.cdninstagram.com
 scontent-iad3-1.cdninstagram.com
