@@ -35,3 +35,4 @@ scontent-sea1-1.cdninstagram.com
 scontent-syd2-1.cdninstagram.com
 scontent.cdninstagram.com
 www.instagram.com
+graph.facebook.com
