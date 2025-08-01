@@ -35,3 +35,10 @@
 ||scontent-syd2-1.cdninstagram.com^$dnsrewrite=157.240.8.52
 ||scontent.cdninstagram.com^$dnsrewrite=31.13.72.53
 ||www.instagram.com^$dnsrewrite=31.13.72.174
+||graph.facebook.com^$dnsrewrite=31.13.72.8
+||instagram.fllk1-8.fna.fbcdn.net^$dnsrewrite=85.132.126.162
+||instagram.fllk1-9.fna.fbcdn.net^$dnsrewrite=85.132.125.160
+||instagram.fevn6-5.fna.fbcdn.net^$dnsrewrite=178.160.243.224
+||instagram.fevn6-6.fna.fbcdn.net^$dnsrewrite=178.160.242.97
+||instagram.fevn6-3.fna.fbcdn.net^$dnsrewrite=178.160.243.35
+||instagram.fevn6-4.fna.fbcdn.net^$dnsrewrite=178.160.243.99
