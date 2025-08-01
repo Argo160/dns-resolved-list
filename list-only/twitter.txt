@@ -9,3 +9,4 @@ t.co
 x.com
 mobile.twitter.com
 twitter.com
+abs.twimg.com
