@@ -6,10 +6,6 @@ rr5---sn-vh5ouxa-hjur.googlevideo.com
 rr6---sn-vh5ouxa-hjur.googlevideo.com
 rr7---sn-vh5ouxa-hjur.googlevideo.com
 rr8---sn-vh5ouxa-hjur.googlevideo.com
-rr9---sn-vh5ouxa-hjur.googlevideo.com
-rr10---sn-vh5ouxa-hjur.googlevideo.com
-rr11---sn-vh5ouxa-hjur.googlevideo.com
-rr12---sn-vh5ouxa-hjur.googlevideo.com
 rr1---sn-vh5ouxa-hjuy.googlevideo.com
 rr2---sn-vh5ouxa-hjuy.googlevideo.com
 rr3---sn-vh5ouxa-hjuy.googlevideo.com
@@ -18,10 +14,6 @@ rr5---sn-vh5ouxa-hjuy.googlevideo.com
 rr6---sn-vh5ouxa-hjuy.googlevideo.com
 rr7---sn-vh5ouxa-hjuy.googlevideo.com
 rr8---sn-vh5ouxa-hjuy.googlevideo.com
-rr9---sn-vh5ouxa-hjuy.googlevideo.com
-rr10---sn-vh5ouxa-hjuy.googlevideo.com
-rr11---sn-vh5ouxa-hjuy.googlevideo.com
-rr12---sn-vh5ouxa-hjuy.googlevideo.com
 rr1---sn-vh5ouxa-hjue7.googlevideo.com
 rr2---sn-vh5ouxa-hjue7.googlevideo.com
 rr3---sn-vh5ouxa-hjue7.googlevideo.com
@@ -30,10 +22,6 @@ rr5---sn-vh5ouxa-hjue7.googlevideo.com
 rr6---sn-vh5ouxa-hjue7.googlevideo.com
 rr7---sn-vh5ouxa-hjue7.googlevideo.com
 rr8---sn-vh5ouxa-hjue7.googlevideo.com
-rr9---sn-vh5ouxa-hjue7.googlevideo.com
-rr10---sn-vh5ouxa-hjue7.googlevideo.com
-rr11---sn-vh5ouxa-hjue7.googlevideo.com
-rr12---sn-vh5ouxa-hjue7.googlevideo.com
 rr1---sn-vh5ouxa-hjud.googlevideo.com
 rr2---sn-vh5ouxa-hjuk.googlevideo.com
 rr3---sn-vh5ouxa-hjuk.googlevideo.com
@@ -51,13 +39,6 @@ rr2---sn-hju7enel.googlevideo.com
 rr3---sn-hju7enel.googlevideo.com
 rr4---sn-hju7enel.googlevideo.com
 rr5---sn-hju7enel.googlevideo.com
-rr6---sn-hju7enel.googlevideo.com
-rr7---sn-hju7enel.googlevideo.com
-rr8---sn-hju7enel.googlevideo.com
-rr9---sn-hju7enel.googlevideo.com
-rr10---sn-hju7enel.googlevideo.com
-rr11---sn-hju7enel.googlevideo.com
-rr12---sn-hju7enel.googlevideo.com
 youtubei.googleapis.com
 youtube.googleapis.com
 i.ytimg.com
@@ -75,7 +56,6 @@ androidplatformbackuprestore-pa.googleapis.com
 notifications-pa.googleapis.com
 taskassist-pa.googleapis.com
 accounts.youtube.com
-admin-dev.youtube.com
 admin.youtube.com
 ads.youtube.com
 au.youtube.com
@@ -119,5 +99,4 @@ youtube.pl
 youtubeeducation.com
 youtubegaming.com
 yt.be
-ytimg.com
 consent.youtube.com
