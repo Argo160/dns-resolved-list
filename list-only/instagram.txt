@@ -36,3 +36,9 @@ scontent-syd2-1.cdninstagram.com
 scontent.cdninstagram.com
 www.instagram.com
 graph.facebook.com
+instagram.fllk1-8.fna.fbcdn.net
+instagram.fllk1-9.fna.fbcdn.net
+instagram.fevn6-5.fna.fbcdn.net
+instagram.fevn6-6.fna.fbcdn.net
+instagram.fevn6-3.fna.fbcdn.net
+instagram.fevn6-4.fna.fbcdn.net
