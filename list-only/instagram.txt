@@ -1,0 +1,17 @@
+mqtt-ig-p4.facebook.com
+edge-mqtt.facebook.com
+i-fallback.instagram.com
+web.facebook.com
+graph.instagram.com
+i.instagram.com
+gateway.instagram.com
+scontent-mct1-1.cdninstagram.com
+scontent-mct1-2.cdninstagram.com
+scontent-fra3-1.cdninstagram.com
+scontent-fra3-2.cdninstagram.com
+scontent-fra3-1.xx.fbcdn.net
+scontent-fra3-2.xx.fbcdn.net
+scontent-fra5-1.cdninstagram.com
+scontent-fra5-2.cdninstagram.com
+scontent-fra5-2.xx.fbcdn.net
+scontent-fra5-1.xx.fbcdn.net
