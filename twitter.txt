@@ -1,0 +1,11 @@
+||ads-api.x.com^$dnsrewrite=162.159.140.229
+||abs-0.twimg.com^$dnsrewrite=104.244.43.131
+||api.x.com^$dnsrewrite=172.66.0.227
+||video.twimg.com^$dnsrewrite=199.232.172.158
+||pbs.twimg.com^$dnsrewrite=199.232.172.159
+||api.twitter.com^$dnsrewrite=172.66.0.227
+||video.twimg.com^$dnsrewrite=199.232.172.158
+||t.co^$dnsrewrite=172.66.0.227
+||x.com^$dnsrewrite=162.159.140.229
+||mobile.twitter.com^$dnsrewrite=162.159.140.229
+||twitter.com^$dnsrewrite=172.66.0.227
