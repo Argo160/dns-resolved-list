@@ -10,3 +10,12 @@ x.com
 mobile.twitter.com
 twitter.com
 abs.twimg.com
+platform.x.com
+api.tweetdeck.com
+support.twitter.com
+syndication.twitter.com
+upload.twitter.com
+static.ads-twitter.com
+www.x.com
+mobile.x.com
+ton.twimg.com
