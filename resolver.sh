@@ -15,8 +15,8 @@ while IFS= read -r domain || [ -n "$domain" ]; do
 
     # If IP is found, write the formatted result
     if [[ -n "$ip" ]]; then
-        echo "||$domain^\\$dnsrewrite=$ip" >> "$OUTPUT_FILE"
+        echo "||$domain^\\\$dnsrewrite=$ip" >> "$OUTPUT_FILE"
     else
-        echo "||$domain^\\$dnsrewrite=IP_NOT_FOUND" >> "$OUTPUT_FILE"
+        echo "||$domain^\\\$dnsrewrite=IP_NOT_FOUND" >> "$OUTPUT_FILE"
     fi
 done < "$INPUT_FILE"
