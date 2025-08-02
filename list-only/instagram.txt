@@ -42,3 +42,4 @@ instagram.fevn6-5.fna.fbcdn.net
 instagram.fevn6-6.fna.fbcdn.net
 instagram.fevn6-3.fna.fbcdn.net
 instagram.fevn6-4.fna.fbcdn.net
+static.xx.fbcdn.net
