@@ -90,3 +90,4 @@ whatsapp-cdn-shv-01-sin6.fbcdn.net
 whatsapp-cdn-shv-01-vie1.fbcdn.net
 whatsapp-cdn-shv-02-sin6.fbcdn.net
 www-cdn.whatsapp.net
+media-fra3-1.cdn.whatsapp.net
