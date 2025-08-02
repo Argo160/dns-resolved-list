@@ -1,0 +1,6 @@
+cdn.ampproject.org
+web.telegram.org
+telegram.me
+venus.web.telegram.org
+t.me
+kws2.web.telegram.org
