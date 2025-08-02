@@ -43,3 +43,5 @@ instagram.fevn6-6.fna.fbcdn.net
 instagram.fevn6-3.fna.fbcdn.net
 instagram.fevn6-4.fna.fbcdn.net
 static.xx.fbcdn.net
+scontent.fevn6-4.fna.fbcdn.net
+mqtt-mini.facebook.com
