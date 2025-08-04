@@ -1,3 +1,11 @@
+rr2---sn-q4fl6n66.googlevideo.com
+
+
+rr4---sn-aigzrnz7.googlevideo.com
+
+rr5---sn-q4fl6nsr.googlevideo.com
+
+
 rr1---sn-vh5ouxa-hjuee.googlevideo.com
 rr2---sn-vh5ouxa-hjuee.googlevideo.com
 rr3---sn-vh5ouxa-hjuee.googlevideo.com
@@ -151,3 +159,5 @@ consent.youtube.com
 clients4.google.com
 googlevideo.com
 i9.ytimg.com
+lh3.google.com
+accounts.google.com
