@@ -137,3 +137,5 @@ youtubegaming.com
 yt.be
 consent.youtube.com
 clients4.google.com
+googlevideo.com
+i9.ytimg.com
